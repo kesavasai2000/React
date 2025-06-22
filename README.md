@@ -1,2 +1,2 @@
 # React
-I Have Created The Basic React Project.Using the node.js
+I Have created a Basic Structure For My Portfolio Using React and CSS
